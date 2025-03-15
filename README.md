@@ -4,6 +4,7 @@ Amigo Secreto Online
 
 Um projeto simples para gerenciar e sortear amigos secretos. Desenvolvido para praticar lógica de programação e manipulação de arrays em JavaScript.
 
+
 -Funcionalidades:
 *Adicionar Amigos: Insira os nomes dos participantes para o sorteio.
 
@@ -12,6 +13,7 @@ Um projeto simples para gerenciar e sortear amigos secretos. Desenvolvido para p
 *Atualizar Lista: Exibe a lista atual de amigos na tela.
 
 *Sortear Amigo Secreto: Sorteia um nome aleatório da lista e o remove para evitar repetições.
+
 
 
 -Como Usar
@@ -27,6 +29,7 @@ Sortear Amigo Secreto:
 Clique em "Sortear" para escolher um nome aleatório da lista.
 
 O nome sorteado será exibido e removido da lista.
+
 
 -Tecnologias Utilizadas
 
